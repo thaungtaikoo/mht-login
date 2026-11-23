@@ -1,10 +1,11 @@
 {
   "users": {
- "thaungtaikoo": {
-  "active": true,
-  "salt": "da9d9f4ef6ee73c3bfaa139444c81c05",
-  "iter": 200000,
-  "hash": "00115f65e554dfb552a4fb24ce611c94c9456dfbd68d35f07e89a85ccbd6992e"
+"thaungtaikoo": {
+    "active": true,
+    "salt": "a48e2f90ed4a6a1d68d81d6029395447",
+    "hash": "f93e42e0e8263ed75dad24be1c767f7c1640af91fbaa1162d30de96842e59839",
+    "iter": 200000,
+    "hwid": "PC-A73B69F939A3"
 },
     "ThanHtikeSoe": {
   "active": true,
