@@ -7,11 +7,12 @@
     "iter": 200000,
     "hwid": "PC-A73B69F939A3"
 },
-    "ThanHtikeSoe": {
-  "active": true,
-  "salt": "ab15d5183c018ec8537660490e9ae876",
-  "iter": 200000,
-  "hash": "1c8dee8ca42f769494b9eaff0da2f025f8ec747abfddc3450d7ebd620c00071b"
+ "ThanHtikeSoe": {
+    "active": true,
+    "salt": "1de74c015d4116dd30e1d2ca726c901f",
+    "hash": "9bea91bc590b254efeb96d49515370271055f6f7fb5d4b319ca75762388b295d",
+    "iter": 200000,
+    "hwid": "PC-A82CE734B0D8"
 },
     "pkmobile": {
   "active": true,
