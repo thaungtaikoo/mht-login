@@ -19,6 +19,13 @@
   "salt": "e08c93b1e95f9b093fa59cea61f05989",
   "iter": 200000,
   "hash": "1cdcd11a97bac6b370ee6596f36bae9129ba15f8e1d3e875d25141ff1c3a6393"
+},
+    "kyawzin": {
+    "active": true,
+    "salt": "727c6c92624b713bbd2ef7d110881457",
+    "hash": "605d3fe9624a18fb1f461bbe9beb16d89703807b2f752e7901e7693f36eadc66",
+    "iter": 200000,
+    "hwid": "PC-25DCD54C34C3"
 }
     
   }
