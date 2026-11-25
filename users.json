@@ -26,6 +26,13 @@
     "hash": "605d3fe9624a18fb1f461bbe9beb16d89703807b2f752e7901e7693f36eadc66",
     "iter": 200000,
     "hwid": "PC-25DCD54C34C3"
+},
+    "thaungtaikoo21": {
+    "active": true,
+    "salt": "4eb6984d3e10b1672f0c9afccbd68c3b",
+    "hash": "1d539208ff6e30f0a2d826907eb86766dd32b5f53aab32c5f63a6faf1d93852b",
+    "iter": 200000,
+    "hwid": "PC-E780B6EA6AE0"
 }
     
   }
