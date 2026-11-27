@@ -33,6 +33,13 @@
     "hash": "1d539208ff6e30f0a2d826907eb86766dd32b5f53aab32c5f63a6faf1d93852b",
     "iter": 200000,
     "hwid": "PC-E780B6EA6AE0"
+},
+    "thaungtaikoo1985": {
+    "active": true,
+    "salt": "aca81c18216191fb1616c7a0a2251859",
+    "hash": "13934af81430163cc3f91ebb2b11f30e76c204095c2aa433013827c2f235f7c4",
+    "iter": 200000,
+    "hwid": "PC-181240EB1299"
 }
     
   }
